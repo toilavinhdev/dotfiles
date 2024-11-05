@@ -1,0 +1,93 @@
+{
+    "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+    "console_title_template": "@{{ .UserName }} :: {{ .Folder }}",
+    "blocks": [
+      {
+        "alignment": "left", 
+        "segments": [
+          {
+            "background": "#282c34",
+            "foreground": "#3A86FF",
+            "foreground_templates": [
+              "{{ if .WSL }}lightRed{{ end }}"
+            ],
+            "style": "diamond",
+            "template": "<green>\u250c\u2500\u2500</>{{.Icon}} ",
+            "type": "os"
+          },
+          {
+            "foreground": "lightBlue",
+            "foreground_templates": [
+              "{{ if .Root }}lightRed{{ end }}"
+            ],
+            "properties": {
+              "display_host": true
+            },
+            "style": "plain",
+            "template": "<green>(</>{{ .UserName }}@{{ .HostName }}<green>)</>",
+            "type": "session"
+          },
+          {
+            "foreground": "lightWhite",
+            "properties": {
+              "folder_separator_icon": "<#c0c0c0>/</>",
+              "style": "full"
+            },
+            "style": "plain",
+            "template": "<green>-[</>{{ .Path }}<green>]</>",
+            "type": "path"
+          },
+          {
+            "foreground": "white",
+            "style": "plain",
+            "template": "<green>-[</>{{ .HEAD }}<green>]</>",
+            "type": "git"
+          }
+        ],
+        "type": "prompt"
+      },
+      {
+        "alignment": "right",
+        "segments": [
+          {
+            "foreground": "white",
+            "properties": {
+              "always_enabled": true,
+              "style": "round"
+            },
+            "style": "plain",
+            "template": " {{ .FormattedMs }} ",
+            "type": "executiontime"
+          },
+          {
+            "foreground": "green",
+            "foreground_templates": [
+              "{{ if gt .Code 0 }}red{{ end }}"
+            ],
+            "properties": {
+              "always_enabled": true
+            },
+            "style": "plain",
+            "template": " {{ if gt .Code 0 }}\uea76{{else}}\uf42e{{ end }} ",
+            "type": "status"
+          }
+        ],
+        "type": "prompt"
+      },
+      {
+        "alignment": "left",
+        "newline": true,
+        "segments": [
+          {
+            "foreground": "lightBlue",
+            "style": "plain",
+            "template": "<green>\u2514\u2500</>{{ if .Root }}<lightRed>#</>{{ else }}${{ end }} ",
+            "type": "text"
+          }
+        ],
+        "type": "prompt"
+      }
+    ],
+    "version": 2
+  }
+  
