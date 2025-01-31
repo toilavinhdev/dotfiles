@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEVICE KEYBOARD_NAME="TU40K_0">
+    <LAYERNUM LAYER_NUMBER="8"/>
+    <ROWNUM ROW_NUMBER="4"/>
+    <COLNUM COL_NUMBER="12"/>
+    <KEYMAP>
+        <LAYER LAYER_INDEX="0">
+            <ROW ROW_INDEX="0">
+                <COLUMN COL_INDEX="0" KEYCODE="41"/>
+                <COLUMN COL_INDEX="1" KEYCODE="20"/>
+                <COLUMN COL_INDEX="2" KEYCODE="26"/>
+                <COLUMN COL_INDEX="3" KEYCODE="8"/>
+                <COLUMN COL_INDEX="4" KEYCODE="21"/>
+                <COLUMN COL_INDEX="5" KEYCODE="23"/>
+                <COLUMN COL_INDEX="6" KEYCODE="28"/>
+                <COLUMN COL_INDEX="7" KEYCODE="24"/>
+                <COLUMN COL_INDEX="8" KEYCODE="12"/>
+                <COLUMN COL_INDEX="9" KEYCODE="18"/>
+                <COLUMN COL_INDEX="10" KEYCODE="19"/>
+                <COLUMN COL_INDEX="11" KEYCODE="42"/>
+            </ROW>
+            <ROW ROW_INDEX="1">
+                <COLUMN COL_INDEX="0" KEYCODE="43"/>
+                <COLUMN COL_INDEX="1" KEYCODE="4"/>
+                <COLUMN COL_INDEX="2" KEYCODE="22"/>
+                <COLUMN COL_INDEX="3" KEYCODE="7"/>
+                <COLUMN COL_INDEX="4" KEYCODE="9"/>
+                <COLUMN COL_INDEX="5" KEYCODE="10"/>
+                <COLUMN COL_INDEX="6" KEYCODE="11"/>
+                <COLUMN COL_INDEX="7" KEYCODE="13"/>
+                <COLUMN COL_INDEX="8" KEYCODE="14"/>
+                <COLUMN COL_INDEX="9" KEYCODE="15"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="40"/>
+            </ROW>
+            <ROW ROW_INDEX="2">
+                <COLUMN COL_INDEX="0" KEYCODE="225"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="29"/>
+                <COLUMN COL_INDEX="3" KEYCODE="27"/>
+                <COLUMN COL_INDEX="4" KEYCODE="6"/>
+                <COLUMN COL_INDEX="5" KEYCODE="25"/>
+                <COLUMN COL_INDEX="6" KEYCODE="5"/>
+                <COLUMN COL_INDEX="7" KEYCODE="17"/>
+                <COLUMN COL_INDEX="8" KEYCODE="16"/>
+                <COLUMN COL_INDEX="9" KEYCODE="56"/>
+                <COLUMN COL_INDEX="10" KEYCODE="82"/>
+                <COLUMN COL_INDEX="11" KEYCODE="176"/>
+            </ROW>
+            <ROW ROW_INDEX="3">
+                <COLUMN COL_INDEX="0" KEYCODE="224"/>
+                <COLUMN COL_INDEX="1" KEYCODE="227"/>
+                <COLUMN COL_INDEX="2" KEYCODE="226"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="44"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="175"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="80"/>
+                <COLUMN COL_INDEX="10" KEYCODE="81"/>
+                <COLUMN COL_INDEX="11" KEYCODE="79"/>
+            </ROW>
+        </LAYER>
+        <LAYER LAYER_INDEX="1">
+            <ROW ROW_INDEX="0">
+                <COLUMN COL_INDEX="0" KEYCODE="53"/>
+                <COLUMN COL_INDEX="1" KEYCODE="30"/>
+                <COLUMN COL_INDEX="2" KEYCODE="31"/>
+                <COLUMN COL_INDEX="3" KEYCODE="32"/>
+                <COLUMN COL_INDEX="4" KEYCODE="33"/>
+                <COLUMN COL_INDEX="5" KEYCODE="34"/>
+                <COLUMN COL_INDEX="6" KEYCODE="35"/>
+                <COLUMN COL_INDEX="7" KEYCODE="36"/>
+                <COLUMN COL_INDEX="8" KEYCODE="37"/>
+                <COLUMN COL_INDEX="9" KEYCODE="38"/>
+                <COLUMN COL_INDEX="10" KEYCODE="39"/>
+                <COLUMN COL_INDEX="11" KEYCODE="76"/>
+            </ROW>
+            <ROW ROW_INDEX="1">
+                <COLUMN COL_INDEX="0" KEYCODE="57"/>
+                <COLUMN COL_INDEX="1" KEYCODE="45"/>
+                <COLUMN COL_INDEX="2" KEYCODE="46"/>
+                <COLUMN COL_INDEX="3" KEYCODE="47"/>
+                <COLUMN COL_INDEX="4" KEYCODE="48"/>
+                <COLUMN COL_INDEX="5" KEYCODE="54"/>
+                <COLUMN COL_INDEX="6" KEYCODE="55"/>
+                <COLUMN COL_INDEX="7" KEYCODE="51"/>
+                <COLUMN COL_INDEX="8" KEYCODE="52"/>
+                <COLUMN COL_INDEX="9" KEYCODE="56"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="49"/>
+            </ROW>
+            <ROW ROW_INDEX="2">
+                <COLUMN COL_INDEX="0" KEYCODE="3"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="3"/>
+                <COLUMN COL_INDEX="3" KEYCODE="3"/>
+                <COLUMN COL_INDEX="4" KEYCODE="3"/>
+                <COLUMN COL_INDEX="5" KEYCODE="3"/>
+                <COLUMN COL_INDEX="6" KEYCODE="3"/>
+                <COLUMN COL_INDEX="7" KEYCODE="3"/>
+                <COLUMN COL_INDEX="8" KEYCODE="3"/>
+                <COLUMN COL_INDEX="9" KEYCODE="3"/>
+                <COLUMN COL_INDEX="10" KEYCODE="3"/>
+                <COLUMN COL_INDEX="11" KEYCODE="3"/>
+            </ROW>
+            <ROW ROW_INDEX="3">
+                <COLUMN COL_INDEX="0" KEYCODE="3"/>
+                <COLUMN COL_INDEX="1" KEYCODE="3"/>
+                <COLUMN COL_INDEX="2" KEYCODE="3"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="3"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="3"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="3"/>
+                <COLUMN COL_INDEX="10" KEYCODE="3"/>
+                <COLUMN COL_INDEX="11" KEYCODE="3"/>
+            </ROW>
+        </LAYER>
+        <LAYER LAYER_INDEX="2">
+            <ROW ROW_INDEX="0">
+                <COLUMN COL_INDEX="0" KEYCODE="58"/>
+                <COLUMN COL_INDEX="1" KEYCODE="59"/>
+                <COLUMN COL_INDEX="2" KEYCODE="60"/>
+                <COLUMN COL_INDEX="3" KEYCODE="61"/>
+                <COLUMN COL_INDEX="4" KEYCODE="62"/>
+                <COLUMN COL_INDEX="5" KEYCODE="63"/>
+                <COLUMN COL_INDEX="6" KEYCODE="64"/>
+                <COLUMN COL_INDEX="7" KEYCODE="65"/>
+                <COLUMN COL_INDEX="8" KEYCODE="66"/>
+                <COLUMN COL_INDEX="9" KEYCODE="67"/>
+                <COLUMN COL_INDEX="10" KEYCODE="68"/>
+                <COLUMN COL_INDEX="11" KEYCODE="69"/>
+            </ROW>
+            <ROW ROW_INDEX="1">
+                <COLUMN COL_INDEX="0" KEYCODE="3"/>
+                <COLUMN COL_INDEX="1" KEYCODE="3"/>
+                <COLUMN COL_INDEX="2" KEYCODE="3"/>
+                <COLUMN COL_INDEX="3" KEYCODE="3"/>
+                <COLUMN COL_INDEX="4" KEYCODE="3"/>
+                <COLUMN COL_INDEX="5" KEYCODE="3"/>
+                <COLUMN COL_INDEX="6" KEYCODE="3"/>
+                <COLUMN COL_INDEX="7" KEYCODE="3"/>
+                <COLUMN COL_INDEX="8" KEYCODE="3"/>
+                <COLUMN COL_INDEX="9" KEYCODE="3"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="3"/>
+            </ROW>
+            <ROW ROW_INDEX="2">
+                <COLUMN COL_INDEX="0" KEYCODE="3"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="3"/>
+                <COLUMN COL_INDEX="3" KEYCODE="3"/>
+                <COLUMN COL_INDEX="4" KEYCODE="3"/>
+                <COLUMN COL_INDEX="5" KEYCODE="3"/>
+                <COLUMN COL_INDEX="6" KEYCODE="3"/>
+                <COLUMN COL_INDEX="7" KEYCODE="3"/>
+                <COLUMN COL_INDEX="8" KEYCODE="3"/>
+                <COLUMN COL_INDEX="9" KEYCODE="3"/>
+                <COLUMN COL_INDEX="10" KEYCODE="155"/>
+                <COLUMN COL_INDEX="11" KEYCODE="3"/>
+            </ROW>
+            <ROW ROW_INDEX="3">
+                <COLUMN COL_INDEX="0" KEYCODE="3"/>
+                <COLUMN COL_INDEX="1" KEYCODE="3"/>
+                <COLUMN COL_INDEX="2" KEYCODE="3"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="3"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="177"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="3"/>
+                <COLUMN COL_INDEX="10" KEYCODE="156"/>
+                <COLUMN COL_INDEX="11" KEYCODE="3"/>
+            </ROW>
+        </LAYER>
+        <LAYER LAYER_INDEX="3">
+            <ROW ROW_INDEX="0">
+                <COLUMN COL_INDEX="0" KEYCODE="3"/>
+                <COLUMN COL_INDEX="1" KEYCODE="181"/>
+                <COLUMN COL_INDEX="2" KEYCODE="182"/>
+                <COLUMN COL_INDEX="3" KEYCODE="183"/>
+                <COLUMN COL_INDEX="4" KEYCODE="184"/>
+                <COLUMN COL_INDEX="5" KEYCODE="3"/>
+                <COLUMN COL_INDEX="6" KEYCODE="3"/>
+                <COLUMN COL_INDEX="7" KEYCODE="3"/>
+                <COLUMN COL_INDEX="8" KEYCODE="3"/>
+                <COLUMN COL_INDEX="9" KEYCODE="3"/>
+                <COLUMN COL_INDEX="10" KEYCODE="3"/>
+                <COLUMN COL_INDEX="11" KEYCODE="3"/>
+            </ROW>
+            <ROW ROW_INDEX="1">
+                <COLUMN COL_INDEX="0" KEYCODE="3"/>
+                <COLUMN COL_INDEX="1" KEYCODE="3"/>
+                <COLUMN COL_INDEX="2" KEYCODE="3"/>
+                <COLUMN COL_INDEX="3" KEYCODE="3"/>
+                <COLUMN COL_INDEX="4" KEYCODE="3"/>
+                <COLUMN COL_INDEX="5" KEYCODE="3"/>
+                <COLUMN COL_INDEX="6" KEYCODE="3"/>
+                <COLUMN COL_INDEX="7" KEYCODE="3"/>
+                <COLUMN COL_INDEX="8" KEYCODE="3"/>
+                <COLUMN COL_INDEX="9" KEYCODE="3"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="3"/>
+            </ROW>
+            <ROW ROW_INDEX="2">
+                <COLUMN COL_INDEX="0" KEYCODE="3"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="137"/>
+                <COLUMN COL_INDEX="3" KEYCODE="136"/>
+                <COLUMN COL_INDEX="4" KEYCODE="139"/>
+                <COLUMN COL_INDEX="5" KEYCODE="138"/>
+                <COLUMN COL_INDEX="6" KEYCODE="135"/>
+                <COLUMN COL_INDEX="7" KEYCODE="3"/>
+                <COLUMN COL_INDEX="8" KEYCODE="3"/>
+                <COLUMN COL_INDEX="9" KEYCODE="3"/>
+                <COLUMN COL_INDEX="10" KEYCODE="3"/>
+                <COLUMN COL_INDEX="11" KEYCODE="3"/>
+            </ROW>
+            <ROW ROW_INDEX="3">
+                <COLUMN COL_INDEX="0" KEYCODE="3"/>
+                <COLUMN COL_INDEX="1" KEYCODE="3"/>
+                <COLUMN COL_INDEX="2" KEYCODE="3"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="3"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="3"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="3"/>
+                <COLUMN COL_INDEX="10" KEYCODE="3"/>
+                <COLUMN COL_INDEX="11" KEYCODE="3"/>
+            </ROW>
+        </LAYER>
+        <LAYER LAYER_INDEX="4">
+            <ROW ROW_INDEX="0">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+            <ROW ROW_INDEX="1">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+            <ROW ROW_INDEX="2">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+            <ROW ROW_INDEX="3">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+        </LAYER>
+        <LAYER LAYER_INDEX="5">
+            <ROW ROW_INDEX="0">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+            <ROW ROW_INDEX="1">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+            <ROW ROW_INDEX="2">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+            <ROW ROW_INDEX="3">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+        </LAYER>
+        <LAYER LAYER_INDEX="6">
+            <ROW ROW_INDEX="0">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+            <ROW ROW_INDEX="1">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+            <ROW ROW_INDEX="2">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+            <ROW ROW_INDEX="3">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+        </LAYER>
+        <LAYER LAYER_INDEX="7">
+            <ROW ROW_INDEX="0">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+            <ROW ROW_INDEX="1">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+            <ROW ROW_INDEX="2">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+            <ROW ROW_INDEX="3">
+                <COLUMN COL_INDEX="0" KEYCODE="0"/>
+                <COLUMN COL_INDEX="1" KEYCODE="0"/>
+                <COLUMN COL_INDEX="2" KEYCODE="0"/>
+                <COLUMN COL_INDEX="3" KEYCODE="0"/>
+                <COLUMN COL_INDEX="4" KEYCODE="0"/>
+                <COLUMN COL_INDEX="5" KEYCODE="0"/>
+                <COLUMN COL_INDEX="6" KEYCODE="0"/>
+                <COLUMN COL_INDEX="7" KEYCODE="0"/>
+                <COLUMN COL_INDEX="8" KEYCODE="0"/>
+                <COLUMN COL_INDEX="9" KEYCODE="0"/>
+                <COLUMN COL_INDEX="10" KEYCODE="0"/>
+                <COLUMN COL_INDEX="11" KEYCODE="0"/>
+            </ROW>
+        </LAYER>
+    </KEYMAP>
+</DEVICE>
