@@ -34,7 +34,7 @@ config.window_padding = {
 config.window_background_opacity = 0.9
 config.window_close_confirmation = "NeverPrompt"
 config.scrollback_lines = 3000
-config.initial_cols = 150
+config.initial_cols = 160
 config.initial_rows = 40
 
 -- Colors
@@ -49,7 +49,7 @@ config.tab_bar_at_bottom = false
 config.font = wezterm.font_with_fallback({
     { family = "JetBrainsMono Nerd Font", scale = 1, weight = "Medium", },
 })
-config.font_size = 10
+config.font_size = 13
 config.line_height = 1
 config.adjust_window_size_when_changing_font_size = false
 
